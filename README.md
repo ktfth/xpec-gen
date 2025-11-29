@@ -122,6 +122,3 @@ export OPENROUTER_MODEL="anthropic/claude-3-5-sonnet"
 ## Licença
 
 MIT
-
-```
-```
